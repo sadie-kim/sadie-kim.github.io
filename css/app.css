@@ -93,6 +93,7 @@ h2,h3,p,footer {
 article,
 aside {
     margin: 2em;
+    color: black;
 }
 
 article header {
